@@ -38,7 +38,7 @@ L’objectif est d’aider les établissements financiers à mieux gérer le ris
    - Visualisations : distribution des défauts, revenus par statut, heatmap de corrélation
 
 3. **Modélisation** :
-   - Modèle de scoring simple (logique conditionnelle ou RandomForest)
+   - Modèle de scoring simple 
    - Évaluation via `accuracy`, `recall`, `precision`, `f1-score`
 
 4. **Interface utilisateur** :
