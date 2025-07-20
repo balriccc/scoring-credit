@@ -1,13 +1,13 @@
 # 💳 Credit Scoring App
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 Ce projet vise à prédire le risque de défaut de crédit pour des clients bancaires à partir de leurs informations personnelles et financières.  
 L’objectif est d’aider les établissements financiers à mieux gérer le risque de crédit et à prendre des décisions éclairées d’octroi de prêts.
 
 ---
 
-## 🧠 Problématique métier
+## Problématique métier
 
 - **Problème** : Comment évaluer le risque de défaut d’un client bancaire ?
 - **Objectif** : Déterminer automatiquement si un client est “à risque” ou “non à risque”.
@@ -15,7 +15,7 @@ L’objectif est d’aider les établissements financiers à mieux gérer le ris
 
 ---
 
-## 🗃️ Données utilisées
+## Données utilisées
 
 - **Source** : [Kaggle - Credit Risk Dataset](https://www.kaggle.com/datasets)
 - **Fichier utilisé** : `credit_data.csv` (dans `/data`)
@@ -26,7 +26,7 @@ L’objectif est d’aider les établissements financiers à mieux gérer le ris
 
 ---
 
-## ⚙️ Pipeline de traitement
+## Pipeline de traitement
 
 1. **Prétraitement** :
    - Nettoyage des valeurs manquantes
@@ -48,11 +48,12 @@ L’objectif est d’aider les établissements financiers à mieux gérer le ris
 
 ---
 
-## 🖥️ Interface Streamlit
+## Interface Streamlit
 
 - Code : [`/interface/app.py`](interface/app.py)
 - Lancement local :https://da39005d0745.ngrok-free.app/
 
 ```bash
 streamlit run interface/app.py
-<img width="971" height="870" alt="image" src="https://github.com/user-attachments/assets/92014c72-cff5-4503-ac03-2f238d507728" />
+<img width="971" height="870" alt="image" src="https://github.com/user-attachments/assets/a834bf10-ae1f-4daa-a057-085171b6b876" />
+
