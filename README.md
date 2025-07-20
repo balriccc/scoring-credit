@@ -48,6 +48,14 @@ L’objectif est d’aider les établissements financiers à mieux gérer le ris
 
 ---
 
+## Auteur
+Nom : Mathis FANGEAT
+
+Formation : Module Data Business Analytics with Python
+
+Encadrant : M. Ali Goumar
+
+Date : Juillet 2025
 ## Interface Streamlit
 
 - Code : [`/interface/app.py`](interface/app.py)
@@ -57,14 +65,5 @@ L’objectif est d’aider les établissements financiers à mieux gérer le ris
 streamlit run interface/app.py
 <img width="971" height="870" alt="image" src="https://github.com/user-attachments/assets/a834bf10-ae1f-4daa-a057-085171b6b876" />
 
----
 
-## Auteur
-Nom : Mathis FANGEAT
-
-Formation : Module Data Business Analytics with Python
-
-Encadrant : M. Ali Goumar
-
-Date : Juillet 2025
 
